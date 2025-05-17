@@ -3,6 +3,8 @@
 ## 🚀 Overview
 Elite Lounge is an **AI-driven lead management system** designed to **automate customer tracking, engagement, and retention**. By leveraging **real-time analytics, AI-driven lead scoring, and personalized email automation**, this system enhances customer interactions while reducing manual effort. It ensures **high conversion rates** by dynamically adapting to user behavior and preferences.
 
+🔗 **Live Demo**: [Elite Lounge Live Demo](https://elite-lounge-lead-management-system-2.onrender.com)
+
 ## 🎯 Key Features
 - **📊 Intelligent Lead Tracking** – Automatically captures leads based on **website visits, services used, visit mode, and payment initiations**.
 - **⚡ AI-Powered Lead Scoring** – Dynamically assigns lead scores based on engagement levels to prioritize high-value prospects.
@@ -45,10 +47,10 @@ Simply open `index.html` in a browser or deploy to a web server.
 
 ## 🚀 Deployment
 To deploy **Elite Lounge**, use:
-- **Frontend**: Vercel / Netlify
-- **Backend**: Render / Heroku / DigitalOcean
-- **Database**: MongoDB Atlas
-- **Email Automation**: Nodemailer (Configured with SMTP services)
+* **Frontend**: Vercel / Netlify
+* **Backend**: Render / Heroku / DigitalOcean
+* **Database**: MongoDB Atlas
+* **Email Automation**: Nodemailer (Configured with SMTP services)
 
 ## 🛠️ Contributing
 We welcome contributions! If you’d like to improve this project:
@@ -62,4 +64,3 @@ For queries, feedback, or collaboration opportunities, connect via **[sakethgolj
 
 ## ⭐ Support the Project
 If you find this project valuable, **star this repository** ⭐ and share it with your network! 🚀
-
